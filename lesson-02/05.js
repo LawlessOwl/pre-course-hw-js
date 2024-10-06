@@ -10,3 +10,6 @@ for (let key in passport) {
 }
 
 copyPassport.name = "Ivan"
+
+console.log(passport.name)
+console.log(copyPassport.name)
